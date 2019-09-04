@@ -1,9 +1,9 @@
 {
   "name": "vue-pc-pagination",
   "description": "pagination for pc, based Vue2.x",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "ylp",
-  "license": "ISC",
+  "license": "MIT",
   "private": false,
   "main": "dist/pagination.js",
   "scripts": {
