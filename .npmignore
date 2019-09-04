@@ -1,0 +1,17 @@
+.DS_Store
+node_modules/
+src/
+npm-debug.log
+yarn-error.log
+webpack.config.js
+package-lock.json
+.editorconfig
+.babelrc
+pagination.js.map
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
